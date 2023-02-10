@@ -1,4 +1,2 @@
-temp=eval(input("20:"))
-print(."the temperature is:",temp)
-age=input("18:")
-print(."my miaka is:",age)
+temp=eval(input("22:"))
+print(".temp is:",temp)

@@ -1,9 +1,11 @@
-num = eval(input("Enter a number:66"))
-if num < 0:
+temp=eval(input("enter your temperature:70"))
+if temp < 0:
     print("wrong input")
 else:
-    if num > 50:
-        x = num/2
+    if temp > 50:
+        x = temp/2
         print(x)
     else:
-        print("print number is less than 50")
+        print("")
+
+    
