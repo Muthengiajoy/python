@@ -12,7 +12,16 @@ cars = ["vanguard","isuzu"]
 #print(nums)
 #nums.remove(3)
 #print(nums)
-nums = [3,4,5,6,7,8,9,911]
-length = (len(nums))
-print(length)
-print(len(cars))
+nums = [3,4,6,7,8,9,911]
+#length = (len(nums))
+#print(length)
+#print(len(cars))
+#print(nums.count(4))
+#length = nums.count(4)
+#print(length)
+#nums.reverse()
+#print(nums)
+#for i in nums:
+    #print(i)
+for i in range(3):
+    print(nums[i])
