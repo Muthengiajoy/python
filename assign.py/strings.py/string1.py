@@ -31,9 +31,10 @@
     #user_name = input("enter_name")
     #print("HELLO" + user_name)
 #my_function("user_name")
-email = "bob123@gmail.com"  
-print(email[7:12])
-print(email[::-1]) 
- 
+#email = "bob123@gmail.com"  
+#print(email[7:12])
+#print(email[::-1]) 
+
+
 
 

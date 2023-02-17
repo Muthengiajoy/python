@@ -23,5 +23,6 @@ nums = [3,4,6,7,8,9,911]
 #print(nums)
 #for i in nums:
     #print(i)
-for i in range(3):
-    print(nums[i])
+#for i in range(3):
+    #print(nums[i])
+def
