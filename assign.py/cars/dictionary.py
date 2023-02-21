@@ -50,10 +50,15 @@ year = {"january":"31","february":"28","march":"31"}
     #print(31)
 #elif month_name == "february":
 #    print(28)
-mykeys = list(year.keys())
-mykeys.sort()
-for i in mykeys:
-    print(mykeys)
+#mykeys = list(year.keys())
+#mykeys.sort()
+#for i in mykeys:
+ #   print(mykeys)
+days = input("days:")
+if days =="31":
+    print("january","march")
+else:
+    print("february")
 
 
     
